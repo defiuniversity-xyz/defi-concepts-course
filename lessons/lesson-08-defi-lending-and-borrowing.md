@@ -52,12 +52,6 @@ $$H_f = \frac{Collateral \times Liquidation\ Threshold}{Debt}$$
 
 ![Health Factor Calculation Visualization](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_08/bdc08_02_health_factor_calculation_visualization.png)
 
-## 🎮 Interactive: Lending Calculator
-
-Calculate your loan health factor and liquidation price with this interactive tool:
-
-{% embed url="https://defi-university-app.web.app/interactives/defi-concepts/lending-calculator.html?courseId=defi-concepts&interactionId=lending-calculator" %}
-
 ### Interactive DeFi Protocol Explorer
 
 Use this interactive tool to explore and compare different lending protocols:

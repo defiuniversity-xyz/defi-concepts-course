@@ -53,12 +53,6 @@ Instead of matching a buyer with a seller, the AMM matches a trader against a "p
 
 ![Liquidity Pool Components Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_07/bdc07_03_liquidity_pool_components_diagram.png)
 
-## 🎮 Interactive: DEX Swap Simulator
-
-Experience how AMM swaps work with this interactive simulator. See how trades affect pool reserves and cause slippage:
-
-{% embed url="https://defi-university-app.web.app/interactives/defi-concepts/dex-swap-simulator.html?courseId=defi-concepts&interactionId=dex-swap-simulator" %}
-
 ### Interactive DeFi Protocol Explorer
 
 Use this interactive tool to explore and compare different DeFi protocols:

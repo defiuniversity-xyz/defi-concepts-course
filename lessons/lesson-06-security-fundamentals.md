@@ -92,10 +92,6 @@ Use this interactive tool to verify your wallet security setup:
 
 {% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/wallet-security-checklist.html?course=defi-concepts&id=wallet-security-checklist-lesson6&topic=Security%20Fundamentals" %}
 
-Complete this interactive security checklist to review all essential DeFi security practices:
-
-{% embed url="https://defi-university-app.web.app/interactives/defi-concepts/security-checklist.html?courseId=defi-concepts&interactionId=security-checklist" %}
-
 ## 🔑 Key Takeaways
 
 1. **Approvals Are Permissions**: When you approve a contract, you're giving it permission to spend your tokens.
