@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-06/audio/lesson6%20Token_Approvals_Are_Your_DeFi_Security_Debt.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-06/video/lesson6%20Crypto_s_Approval_Threat.mp4" %}
-
 
 # Lesson 6: Security Fundamentals
 
@@ -46,9 +44,7 @@ The curriculum must integrate the use of tools like Revoke.cash as a standard op
 - Regularly review and revoke unused approvals
 - Use Revoke.cash or similar tools monthly
 
-
 ![Token Approval Process Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_06/bdc06_01_token_approval_process_diagram.png)
-
 
 ## 📚 Operational Security Best Practices
 
@@ -77,10 +73,7 @@ If something seems too good to be true, it probably is. Scammers use fake airdro
 
 Keep your wallet software and browser extensions updated. Updates often include security patches.
 
-
 ![Security Best Practices Checklist](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_06/bdc06_02_security_best_practices_checklist.png)
-
-
 
 ![Common Attack Vectors Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_06/bdc06_03_common_attack_vectors_diagram.png)
 
@@ -89,8 +82,6 @@ Keep your wallet software and browser extensions updated. Updates often include 
 ### Interactive Wallet Security Checklist
 
 Use this interactive tool to verify your wallet security setup:
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/wallet-security-checklist.html?course=defi-concepts&id=wallet-security-checklist-lesson6&topic=Security%20Fundamentals" %}
 
 ## 🔑 Key Takeaways
 

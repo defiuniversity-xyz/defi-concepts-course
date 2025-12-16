@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-11/audio/lesson11%20DeFi_Risk_Framework_Five_Mitigation_Steps.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-11/video/lesson11%20Navigating_DeFi_Risk.mp4" %}
-
 
 # Lesson 11: Risk Management
 
@@ -26,17 +24,11 @@ Code is law in DeFi, but code can be flawed. Understanding and managing risks is
 
 Code can have bugs. Even audited contracts can have vulnerabilities.
 
-
 ![Risk vs Reward Matrix](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_11/bdc11_03_risk_vs_reward_matrix.png)
-
-
 
 ![Portfolio Diversification Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_11/bdc11_02_portfolio_diversification_diagram.png)
 
-
-
 ![Risk Assessment Framework](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_11/bdc11_01_risk_assessment_framework.png)
-
 
 **Mitigation**: Use well-audited, time-tested protocols. Start with small amounts.
 
@@ -71,8 +63,6 @@ Use this interactive tool to assess risks across different DeFi protocols:
 [![DeFi Risk Assessment](images/interactives/defi-risk-assessment.png)](https://defi-university-app.web.app/interactives/beginner-defi-concepts/defi-risk-assessment.html)
 
 **[Launch DeFi Risk Assessment →](https://defi-university-app.web.app/interactives/beginner-defi-concepts/defi-risk-assessment.html)**
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/defi-risk-assessment.html?course=defi-concepts&id=defi-risk-assessment-lesson11&topic=Risk%20Management" %}
 
 ## 🔑 Key Takeaways
 

@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-05/audio/lesson5%20Seed_Phrases_Private_Keys_Wallet_Security.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-05/video/lesson5%20Crypto_Self-Custody.mp4" %}
-
 
 # Lesson 5: Wallets and Self-Custody
 
@@ -43,13 +41,9 @@ Seed phrases (usually 12-24 words) are the human-readable backup of your private
 - If your phrase is lost → funds are unrecoverable
 - If someone sees your phrase → they can steal your funds
 
-
 ![Public vs Private Key Cryptography](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_05/bdc05_01_public_vs_private_key_cryptography.png)
 
-
-
 ![Seed Phrase Security Flowchart](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_05/bdc05_03_seed_phrase_security_flowchart.png)
-
 
 ## 📚 Wallet Typology and Risk Hierarchies
 
@@ -68,7 +62,6 @@ These devices (e.g., Ledger, Trezor) keep private keys air-gapped from the inter
 ### Smart Contract Wallets (Account Abstraction)
 
 Emerging technology that improves UX by allowing features like social recovery, daily spending limits, and bundled transactions. This represents the future of user interaction, abstracting away raw private key management.
-
 
 ![Wallet Types Comparison](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_05/bdc05_02_wallet_types_comparison.png)
 
@@ -102,8 +95,6 @@ Use this interactive tool to verify your wallet security setup:
 [![Wallet Security Checklist](images/interactives/wallet-security-checklist.png)](https://defi-university-app.web.app/interactives/beginner-defi-concepts/wallet-security-checklist.html)
 
 **[Launch Wallet Security Checklist →](https://defi-university-app.web.app/interactives/beginner-defi-concepts/wallet-security-checklist.html)**
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/wallet-security-checklist.html?course=defi-concepts&id=wallet-security-checklist-lesson5&topic=Wallet%20Security" %}
 
 ## ⚠️ Important Warnings
 

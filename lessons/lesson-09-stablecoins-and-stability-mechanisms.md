@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-09/audio/lesson9%20Stablecoin_Trilemma_and_Its_Three_Types.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-09/video/lesson9%20Stablecoins__Digital_Dollar.mp4" %}
-
 
 # Lesson 9: Stablecoins and Stability Mechanisms
 
@@ -20,9 +18,7 @@ course: defi-concepts
 
 Cryptocurrencies are volatile; a functional financial system requires a stable unit of account. Stablecoins bridge this gap, but their design is constrained by the **Stablecoin Trilemma**: a stablecoin can only optimize for two of three properties—**Decentralization, Stability, and Capital Efficiency**.
 
-
 ![Stablecoin Trilemma Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_09/bdc09_01_stablecoin_trilemma_diagram.png)
-
 
 ## 📚 Types of Stablecoins
 
@@ -38,10 +34,7 @@ Decentralized and trustless. Users lock volatile crypto assets in a smart contra
 
 These attempt to maintain a peg via supply elasticity and incentives rather than full collateral backing. History (e.g., Terra/Luna) suggests these are highly risky and prone to "death spirals."
 
-
 ![Stablecoin Types Comparison](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_09/bdc09_02_stablecoin_types_comparison.png)
-
-
 
 ![Stability Mechanism Flowchart](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_09/bdc09_03_stability_mechanism_flowchart.png)
 
@@ -49,13 +42,9 @@ These attempt to maintain a peg via supply elasticity and incentives rather than
 
 Use this interactive tool to explore and compare different stablecoin protocols:
 
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/defi-protocol-explorer.html?course=defi-concepts&id=defi-protocol-explorer-lesson9&topic=Stablecoins" %}
-
 ### Interactive Token Economics Calculator
 
 Use this interactive tool to analyze stablecoin token economics:
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/token-economics-calculator.html?course=defi-concepts&id=token-economics-calculator-lesson9&topic=Stablecoin%20Economics" %}
 
 ## 🔑 Key Takeaways
 

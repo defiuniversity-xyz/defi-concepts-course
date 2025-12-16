@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-12/audio/lesson12%20Rollups_Real_World_Assets_Institutional_DeFi.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-12/video/lesson12%20The_Future_of_DeFi.mp4" %}
-
 
 # Lesson 12: Layer 2s and the Future of DeFi
 
@@ -34,13 +32,9 @@ Use advanced cryptography to prove transaction validity instantly. No challenge 
 
 **Examples**: zkSync, Starknet
 
-
 ![Layer 2 Scaling Solutions Comparison](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_12/bdc12_01_layer_2_scaling_solutions_comparison.png)
 
-
-
 ![Blockchain Scalability Trilemma](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_12/bdc12_02_blockchain_scalability_trilemma.png)
-
 
 ## 📚 The Future: Real World Assets (RWAs)
 
@@ -48,9 +42,7 @@ The next frontier for DeFi is integrating off-chain value—tokenizing tangible 
 
 **The Challenge**: This re-introduces the "Oracle Problem" and centralization. A trusted legal entity must hold the physical asset.
 
-
 ![DeFi Ecosystem Architecture](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_12/bdc12_03_defi_ecosystem_architecture.png)
-
 
 ## 📚 Institutional DeFi
 
@@ -67,8 +59,6 @@ Major banks are exploring "permissioned" pools where participants must pass KYC/
 ### Interactive DeFi Risk Assessment
 
 Use this interactive tool to assess risks when evaluating Layer 2 solutions:
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/defi-risk-assessment.html?course=defi-concepts&id=defi-risk-assessment-lesson12&topic=Layer%202%20and%20Future%20of%20DeFi" %}
 
 ## 📖 Course Conclusion
 

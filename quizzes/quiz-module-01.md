@@ -20,8 +20,6 @@ Test your understanding of the core concepts from Module 1, covering the evoluti
 
 **[Take Module 1 Quiz →](https://defi-university-app.web.app/quizzes/defi-concepts/module-01-quiz.html)**
 
-{% embed url="https://defi-university-app.web.app/quizzes/defi-concepts/module-01-quiz.html" %}
-
 ---
 
 **Good luck!** Review the lesson content if you need to refresh your understanding of the concepts.

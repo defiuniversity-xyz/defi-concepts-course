@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-07/audio/lesson7%20AMM_Math_and_Impermanent_Loss_Explained.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-07/video/lesson7%20Engine_of_DeFi_Trading.mp4" %}
-
 
 # Lesson 7: Decentralized Exchanges
 
@@ -20,9 +18,7 @@ course: defi-concepts
 
 TradFi and Centralized Exchanges utilize Central Limit Order Books (CLOBs), where buyers and sellers list prices. DeFi introduced a novel primitive: the Automated Market Maker (AMM), which uses mathematical formulas instead of order books to determine prices.
 
-
 ![AMM vs Order Book Comparison](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_07/bdc07_01_amm_vs_order_book_comparison.png)
-
 
 ## 📚 The Constant Product Formula
 
@@ -37,9 +33,7 @@ Where:
 
 **How It Works**: When a trader buys Token A from the pool, the supply of x decreases. To keep k constant, the supply of y must increase. This algorithmic relationship automatically adjusts the price based on supply and demand.
 
-
 ![Constant Product Formula Visualization](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_07/bdc07_02_constant_product_formula_visualization.png)
-
 
 ## 📚 Liquidity Pools
 
@@ -49,7 +43,6 @@ Instead of matching a buyer with a seller, the AMM matches a trader against a "p
 - **Liquidity Providers**: Users who deposit tokens into pools to earn fees
 - **Price Discovery**: Prices adjust automatically based on trades
 - **Impermanent Loss**: LPs face risk if token prices diverge significantly
-
 
 ![Liquidity Pool Components Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_07/bdc07_03_liquidity_pool_components_diagram.png)
 
@@ -61,8 +54,6 @@ Use this interactive tool to explore and compare different DeFi protocols:
 
 **[Launch DeFi Protocol Explorer →](https://defi-university-app.web.app/interactives/beginner-defi-concepts/defi-protocol-explorer.html)**
 
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/defi-protocol-explorer.html?course=defi-concepts&id=defi-protocol-explorer-lesson7&topic=Decentralized%20Exchanges" %}
-
 ### Interactive Yield Farming Calculator
 
 Use this interactive tool to calculate potential yields from liquidity provision:
@@ -71,13 +62,9 @@ Use this interactive tool to calculate potential yields from liquidity provision
 
 **[Launch Yield Farming Calculator →](https://defi-university-app.web.app/interactives/beginner-defi-concepts/yield-farming-calculator.html)**
 
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/yield-farming-calculator.html?course=defi-concepts&id=yield-farming-calculator-lesson7&topic=Yield%20Farming" %}
-
 ### Interactive Gas Fee Estimator
 
 Use this interactive tool to estimate gas fees for DEX transactions:
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/gas-fee-estimator.html?course=defi-concepts&id=gas-fee-estimator-lesson7&topic=DEX%20Transactions" %}
 
 ## 🔑 Key Takeaways
 

@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-04/audio/lesson4%20Automated_Trust_Built_With_Money_Legos.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-04/video/lesson4%20Vending_Machines_to_Money_Legos.mp4" %}
-
 
 # Lesson 4: Smart Contracts and Token Standards
 
@@ -31,9 +29,7 @@ In DeFi, smart contracts are autonomous, self-executing code that hold tokens an
 
 **Crucial Insight**: No clerk is required. The machine holds the custody of the asset (soda) and the logic for the trade. In DeFi, the smart contract holds the tokens and executes the financial logic automatically.
 
-
 ![Smart Contract Vending Machine Analogy](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_04/bdc04_01_smart_contract_vending_machine_analogy.png)
-
 
 ## 📚 Ethereum and the EVM Paradigm
 
@@ -43,9 +39,7 @@ While Bitcoin acts as a decentralized calculator (tracking balances), Ethereum a
 
 The EVM is a state machine: a global computer that transitions from one state to the next with every block of transactions. Every transaction changes the global state of Ethereum.
 
-
 ![EVM State Machine Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_04/bdc04_02_evm_state_machine_diagram.png)
-
 
 ### Gas and Economic Incentives
 
@@ -90,9 +84,7 @@ Because tokens follow standards, different DeFi protocols can work together seam
 
 This composability is what makes DeFi powerful—protocols can build on top of each other.
 
-
 ![Token Standards Comparison](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_04/bdc04_03_token_standards_comparison.png)
-
 
 ## 🔑 Key Takeaways
 
@@ -125,8 +117,6 @@ Use this interactive tool to calculate and analyze token economics:
 [![Token Economics Calculator](images/interactives/token-economics-calculator.png)](https://defi-university-app.web.app/interactives/beginner-defi-concepts/token-economics-calculator.html)
 
 **[Launch Token Economics Calculator →](https://defi-university-app.web.app/interactives/beginner-defi-concepts/token-economics-calculator.html)**
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/token-economics-calculator.html?course=defi-concepts&id=token-economics-calculator-lesson4&topic=Token%20Standards" %}
 
 ## ⚠️ Important Warnings
 

@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-03/audio/lesson3%20Blockchain_Trilemma_and_Layer_2_Rollups.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-03/video/lesson3%20The_Blockchain_Trilemma.mp4" %}
-
 
 # Lesson 3: Blockchain Infrastructure
 
@@ -50,9 +48,7 @@ You cannot optimize for all three simultaneously. Every blockchain must choose w
 - **Solana**: Prioritize Scalability + Security → Sacrifice some Decentralization
 - **Some Alt-chains**: Prioritize Scalability + Decentralization → Sacrifice Security
 
-
 ![Blockchain Trilemma Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_03/bdc03_01_blockchain_trilemma_diagram.png)
-
 
 ## 📚 Case Studies: Different Approaches
 
@@ -110,13 +106,9 @@ Layer 2 (L2) solutions sit on top of L1. They handle the heavy lifting of proces
 
 **Security Inheritance**: Crucially, L2s inherit the security of L1. A user on Arbitrum (L2) is ultimately protected by Ethereum's (L1) consensus. Even if the L2 sequencer goes offline or tries to censor transactions, the user can force-exit their funds via the L1 "Supreme Court." This distinguishes L2s from "Sidechains" (like the old Polygon PoS), which have their own validator sets and can fail independently.
 
-
 ![Blockchain Architecture Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_03/bdc03_02_blockchain_architecture_diagram.png)
 
-
-
 ![Layer Architecture Visualization](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_03/bdc03_03_layer_architecture_visualization.png)
-
 
 ## 📚 Ethereum and the EVM Paradigm
 
@@ -169,8 +161,6 @@ Use this interactive tool to estimate gas fees for different blockchain operatio
 [![Gas Fee Estimator](images/interactives/gas-fee-estimator.png)](https://defi-university-app.web.app/interactives/beginner-defi-concepts/gas-fee-estimator.html)
 
 **[Launch Gas Fee Estimator →](https://defi-university-app.web.app/interactives/beginner-defi-concepts/gas-fee-estimator.html)**
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/gas-fee-estimator.html?course=defi-concepts&id=gas-fee-estimator-lesson3&topic=Blockchain%20Infrastructure" %}
 
 ## ⚠️ Important Notes
 

@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-08/audio/lesson8%20DeFi_Lending_Overcollateralization_and_Liquidation_Math.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-08/video/lesson8%20DeFi_Lending_Demystified.mp4" %}
-
 
 # Lesson 8: DeFi Lending and Borrowing
 
@@ -20,9 +18,7 @@ course: defi-concepts
 
 DeFi protocols like Aave and Compound allow for permissionless lending and borrowing. Unlike TradFi, which relies on credit scores, DeFi relies on **Over-Collateralization**. To borrow $100 worth of USDC, you might need to deposit $150 worth of ETH as collateral.
 
-
 ![Over-Collateralization Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_08/bdc08_01_over-collateralization_diagram.png)
-
 
 ## 📚 How It Works
 
@@ -36,9 +32,7 @@ DeFi protocols like Aave and Compound allow for permissionless lending and borro
 - **Tax Efficiency**: Access liquidity without selling (avoiding capital gains)
 - **Short Selling**: Borrow an asset to sell it, hoping to buy back cheaper
 
-
 ![Lending Protocol Flowchart](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_08/bdc08_03_lending_protocol_flowchart.png)
-
 
 ## 📚 Health Factors
 
@@ -49,14 +43,11 @@ $$H_f = \frac{Collateral \times Liquidation\ Threshold}{Debt}$$
 - **H_f > 1**: Position is safe
 - **H_f < 1**: Position is liquidated
 
-
 ![Health Factor Calculation Visualization](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_08/bdc08_02_health_factor_calculation_visualization.png)
 
 ### Interactive DeFi Protocol Explorer
 
 Use this interactive tool to explore and compare different lending protocols:
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/defi-protocol-explorer.html?course=defi-concepts&id=defi-protocol-explorer-lesson8&topic=DeFi%20Lending" %}
 
 ## 🔑 Key Takeaways
 

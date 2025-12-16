@@ -8,11 +8,9 @@ course: defi-concepts
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-10/audio/lesson10%20Flash_Loans_Weaponizing_Instant_Capital.m4a" %}
 
-
 ## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-10/video/lesson10%20Flash_Loans__DeFi_s_Magic.mp4" %}
-
 
 # Lesson 10: Flash Loans and Advanced Primitives
 
@@ -30,13 +28,9 @@ Flash Loans represent a financial primitive with **no equivalent in traditional 
 
 **Key Insight**: The atomicity of blockchain transactions makes this possible. Either everything succeeds or nothing happens.
 
-
 ![Flash Loan Transaction Flow](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_10/bdc10_01_flash_loan_transaction_flow.png)
 
-
-
 ![Atomic Transaction Diagram](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_10/bdc10_02_atomic_transaction_diagram.png)
-
 
 ## 📚 Use Cases
 
@@ -46,14 +40,11 @@ Flash Loans represent a financial primitive with **no equivalent in traditional 
 
 **The Dark Side**: Flash loans are also used by attackers to maximize exploit impact.
 
-
 ![Advanced DeFi Primitives Overview](https://storage.googleapis.com/beginner-defi-concepts-gitbook-images/lessons/lesson_10/bdc10_03_advanced_defi_primitives_overview.png)
 
 ### Interactive Yield Farming Calculator
 
 Use this interactive tool to calculate potential yields from advanced DeFi strategies:
-
-{% embed url="https://defi-university-app.web.app/interactives/beginner-defi-concepts/yield-farming-calculator.html?course=defi-concepts&id=yield-farming-calculator-lesson10&topic=Flash%20Loans%20and%20Advanced%20Primitives" %}
 
 ## 🔑 Key Takeaways
 

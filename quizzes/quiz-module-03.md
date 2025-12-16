@@ -20,8 +20,6 @@ Test your understanding of stablecoins, flash loans, risk management, Layer 2s, 
 
 **[Take Module 3 Quiz →](https://defi-university-app.web.app/quizzes/defi-concepts/module-03-quiz.html)**
 
-{% embed url="https://defi-university-app.web.app/quizzes/defi-concepts/module-03-quiz.html" %}
-
 ---
 
 **Congratulations!** Upon completing this quiz, you'll have finished the entire Beginner DeFi Concepts course!

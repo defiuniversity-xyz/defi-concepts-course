@@ -20,8 +20,6 @@ Test your understanding of wallet security, DeFi access patterns, decentralized 
 
 **[Take Module 2 Quiz →](https://defi-university-app.web.app/quizzes/defi-concepts/module-02-quiz.html)**
 
-{% embed url="https://defi-university-app.web.app/quizzes/defi-concepts/module-02-quiz.html" %}
-
 ---
 
 **Good luck!** Review the lesson content if you need to refresh your understanding of the concepts.
