@@ -4,8 +4,12 @@ lesson_number: 2
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-02/audio/lesson2%20TradFi_CeFi_DeFi_Architecture_and_Risk.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-02/video/lesson2%20TradFi%2C_CeFi%2C_%26_DeFi.mp4" %}
 

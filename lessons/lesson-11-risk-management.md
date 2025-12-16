@@ -4,8 +4,12 @@ lesson_number: 11
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-11/audio/lesson11%20DeFi_Risk_Framework_Five_Mitigation_Steps.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-11/video/lesson11%20Navigating_DeFi_Risk.mp4" %}
 

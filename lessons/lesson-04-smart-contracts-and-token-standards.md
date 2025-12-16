@@ -4,8 +4,12 @@ lesson_number: 4
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-04/audio/lesson4%20Automated_Trust_Built_With_Money_Legos.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-04/video/lesson4%20Vending_Machines_to_Money_Legos.mp4" %}
 

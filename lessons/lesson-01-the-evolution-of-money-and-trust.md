@@ -4,8 +4,12 @@ lesson_number: 1
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-01/audio/lesson1%20History_of_Blockchain_Before_Bitcoin.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-01/video/lesson1%20The_History_of_Trust.mp4" %}
 

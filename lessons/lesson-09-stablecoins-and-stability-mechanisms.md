@@ -4,8 +4,12 @@ lesson_number: 9
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-09/audio/lesson9%20Stablecoin_Trilemma_and_Its_Three_Types.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-09/video/lesson9%20Stablecoins__Digital_Dollar.mp4" %}
 

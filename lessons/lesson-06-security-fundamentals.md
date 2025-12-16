@@ -4,8 +4,12 @@ lesson_number: 6
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-06/audio/lesson6%20Token_Approvals_Are_Your_DeFi_Security_Debt.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-06/video/lesson6%20Crypto_s_Approval_Threat.mp4" %}
 

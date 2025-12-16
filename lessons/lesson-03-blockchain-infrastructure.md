@@ -4,8 +4,12 @@ lesson_number: 3
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-03/audio/lesson3%20Blockchain_Trilemma_and_Layer_2_Rollups.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-03/video/lesson3%20The_Blockchain_Trilemma.mp4" %}
 

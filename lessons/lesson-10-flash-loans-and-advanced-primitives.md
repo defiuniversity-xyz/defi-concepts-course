@@ -4,8 +4,12 @@ lesson_number: 10
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-10/audio/lesson10%20Flash_Loans_Weaponizing_Instant_Capital.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-10/video/lesson10%20Flash_Loans__DeFi_s_Magic.mp4" %}
 

@@ -4,8 +4,12 @@ lesson_number: 5
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-05/audio/lesson5%20Seed_Phrases_Private_Keys_Wallet_Security.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-05/video/lesson5%20Crypto_Self-Custody.mp4" %}
 

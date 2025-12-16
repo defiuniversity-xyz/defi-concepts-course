@@ -4,8 +4,12 @@ lesson_number: 8
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-08/audio/lesson8%20DeFi_Lending_Overcollateralization_and_Liquidation_Math.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-08/video/lesson8%20DeFi_Lending_Demystified.mp4" %}
 

@@ -4,8 +4,12 @@ lesson_number: 7
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-07/audio/lesson7%20AMM_Math_and_Impermanent_Loss_Explained.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-07/video/lesson7%20Engine_of_DeFi_Trading.mp4" %}
 

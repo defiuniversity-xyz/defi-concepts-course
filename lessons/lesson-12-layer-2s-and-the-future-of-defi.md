@@ -4,8 +4,12 @@ lesson_number: 12
 course: defi-concepts
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-12/audio/lesson12%20Rollups_Real_World_Assets_Institutional_DeFi.m4a" %}
 
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/beginner-defi-crypto-concepts-gitbook-media/lesson-12/video/lesson12%20The_Future_of_DeFi.mp4" %}
 
